@@ -1,5 +1,2 @@
-name = "my-static-site"
-compatibility_date = "2025-04-14"
-
-[site]
-bucket = "./dist"
+# wrangler.toml
+name = 'webplan3'

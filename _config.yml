@@ -1,0 +1,3 @@
+# 禁用自动 Worker 部署
+cloudflare:
+  worker: false
